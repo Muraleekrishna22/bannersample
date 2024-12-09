@@ -1,0 +1,8 @@
+.banner{
+    position: relative;
+    background-image: url(https://imgs.search.brave.com/eWIm3U5yVthOwplpXfBB-5UdxQlvr6vLttyyN93SFas/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM4/Nzk1NDA4Ny9waG90/by9yZXN0YXVyYW50/LWludGVyaW9yLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1T/SEV6QVZmeGJXWW9r/cS1neEE5Q1pyZ2ZM/aFFJdEIxcC1zbnlH/UnpaUy1BPQ);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+}
